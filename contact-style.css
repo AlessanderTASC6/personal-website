@@ -1,0 +1,72 @@
+body{
+    /* width: 1080px;
+    height: 1920px; */
+    /* background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/70/Wikidata_logo_under_construction_sign_wallpaper.png); */
+     /* url(https://s17736.pcdn.co/wp-content/uploads/2019/04/03-deep-blue-1024x576.jpg); */
+     background-image: url(https://s17736.pcdn.co/wp-content/uploads/2019/04/03-deep-blue-1024x576.jpg);
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* padding: 20px; */
+}
+
+
+
+.Homepage{
+    font-family: 'EB Garamond', serif;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+}
+
+.About{
+    font-family: 'EB Garamond', serif;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    /* margin: 4px 2px; */
+    cursor: pointer; 
+}
+
+.Projects{
+    font-family: 'EB Garamond', serif;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+}
+
+.Contact{
+    font-family: 'EB Garamond', serif;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+}
+.icons{
+padding: 20px;
+font-size: 30px;
+width: 1000px;
+text-align: center;
+text-decoration: none;
+}

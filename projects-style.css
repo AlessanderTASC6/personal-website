@@ -1,0 +1,109 @@
+body{
+  width: 1080px;
+  height: 1920px;
+  background-image: url(https://s17736.pcdn.co/wp-content/uploads/2019/04/03-deep-blue-1024x576.jpg);
+  background-position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: url(http://iconbug.com/data/59/128/073a9e305ecf2fd8a953db5d5db2881f.png), auto;
+  /* url(https://img.icons8.com/nolan/2x/long-arrow-up--v2.png), auto; */
+  /* url(https://png.pngtree.com/png_detail/20181017/apple-logo-icon-png-clipart_849418.png), auto; */
+}
+
+.Homepage{
+    font-family: 'EB Garamond', serif;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    /* margin: 4px 2px; */
+    cursor: pointer;
+  }
+  .Homepage:hover{
+    color: blue;
+    /* font-size: 40px; */
+    /* cursor: none;  */
+  }
+
+.About{
+  font-family: 'EB Garamond', serif;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  /* margin: 4px 2px; */
+  cursor: pointer;
+}
+.About:hover{
+  color: blue;
+  /* font-size: 40px; */
+}
+
+
+.Projects{
+  font-family: 'EB Garamond', serif;
+    border: none;
+    color: darkblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+    
+.Contact{
+  /* background-color: rgb(30, 178, 228); */
+  font-family: 'EB Garamond', serif;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  /* margin: 4px 2px; */
+  cursor: pointer;
+}
+
+.Contact:hover{
+  color: blue;
+  /* font-size: 40px; */
+
+}
+
+.header{
+  font-family: 'EB Garamond', serif;
+  /* font-family: 'Quicksand', sans-serif; */
+  font-size: 50px;
+  color: white;
+}
+
+.Projects-description{
+  font-family: 'EB Garamond', serif;
+  /* font-family: 'Quicksand', sans-serif; */
+  font-size: 25px;
+  color: white;
+  cursor: url(http://www.rw-designer.com/cursor-extern.php?id=127126);
+}
+.links{
+  font-family: 'EB Garamond', serif;
+  margin-top: 150px;
+  /* font-family: 'Quicksand', sans-serif; */
+  font-size: 50px;
+  color: white;
+}
+
+.links-3{
+  font-family: 'EB Garamond', serif;
+  /* font-family: 'Quicksand', sans-serif; */
+  font-size: 25px;
+  color: white;
+}
